@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Ferhad zeynalov</title>
+</head>
+<body>
+<h1>Laboratoriya-2<h1>
+<br>
+<p>Ferhad zeynalov<p>
+<br>
+<a href= "https://github.com/maa2441a/ferhad-laboratoriya_.git">bu bir linktir</a>
+<br>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FLamborghini_Aventador&psig=AOvVaw2wcY5AVKZzeayWGcn78rs8&ust=1709203987070000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiG-ZbvzYQDFQAAAAAdAAAAABAD" alt="Aventador" width="700" height="400">
+</body>
+</html>
